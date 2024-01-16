@@ -1,3 +1,0 @@
-E:/Projects/autodiff-cmake-project/build/CMakeFiles/app.dir
-E:/Projects/autodiff-cmake-project/build/CMakeFiles/ALL_BUILD.dir
-E:/Projects/autodiff-cmake-project/build/CMakeFiles/ZERO_CHECK.dir
